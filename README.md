@@ -10,10 +10,10 @@ Microsoft sees all the big companies creating original video content and they wa
 ## Aim of the project
 The main aim of this project was/is to find the insights that are needed to know whether to start a new movie company/department by Microsoft. The movie industry started about a century ago and has grown massively over the years with new movie ideas coming up every single day. Microsoft has decided to join in in the fun. In order to accomplish this they need to know the major points to hit in order to get into the industry smoothly.
 ## Questions to answer
-   * The studio with the most movies
-   * What genres are most produced
-   * The language of the movie that is most popular
-   * How the year of production has affected it worldwide_gross
+    The studio with the most movies
+    What genres are most produced
+    The language of the movie that is most popular
+    How the year of production has affected it worldwide_gross
 
 ## Data Description
 
