@@ -19,19 +19,19 @@ The main aim of this project was/is to find the insights that are needed to know
 
 In this analysis i will be using the following data:
 
-    * bom.movie_gross.csv
-    * tmdb.movies.csv
-    * tn.movie_budgets.csv
-    * rt.movie_info.tsv
-    * rt.reviews.tsv
+     bom.movie_gross.csv
+     tmdb.movies.csv
+     tn.movie_budgets.csv
+     rt.movie_info.tsv
+     rt.reviews.tsv
 
 The datasets are extracted from the following sites:
 
-    * Box Office.
-    * IMDB.
-    * Rotten Tomatoes.
-    * TheMovieDB.
-    * The Numbers.
+     Box Office.
+     IMDB.
+     Rotten Tomatoes.
+     TheMovieDB.
+     The Numbers.
 
 Data cleaning was done by dropping missing values and filling the usable missing values. Also done was the merging of tables to have more data to use while analyzing.
 # Exploratory Data Analysis (EDA)
@@ -68,8 +68,8 @@ Data cleaning was done by dropping missing values and filling the usable missing
 
 
 ## Recommendation
-    * Microsoft should use English for most movies while also producing movies focused on the other native languages so as to increase their fan base. They can also include subtitles in the other native languages
-    * While starting out, they could collaborate with the bigger already established companies in order to get their presence known quicker.
-    * They should major on the production of the movie genres that have the highest number of movies out (Supply and demand).
-    * They should not only focus on the most common genres because there is a wide range of likes from the fan base that would like to see other types of genres.
-    * In this age and time of the internet they should most definitely get into the movie business.
+     Microsoft should use English for most movies while also producing movies focused on the other native languages so as to increase their fan base. They can also include subtitles in the other native languages
+     While starting out, they could collaborate with the bigger already established companies in order to get their presence known quicker.
+     They should major on the production of the movie genres that have the highest number of movies out (Supply and demand).
+     They should not only focus on the most common genres because there is a wide range of likes from the fan base that would like to see other types of genres.
+     In this age and time of the internet they should most definitely get into the movie business.
